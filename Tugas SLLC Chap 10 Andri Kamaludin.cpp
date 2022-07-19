@@ -48,7 +48,7 @@ void insertDepan(int dataBaru) {
         tail->next = head;
     }
 
-    cout << "44" << dataBaru << " masuk sebagai node paling depan" << endl;
+    cout << "25" << dataBaru << " masuk sebagai node paling depan" << endl;
 }
 
 void insertBelakang(int dataBaru) {
